@@ -1,6 +1,9 @@
 # Modern Drive Search 🚀
 ### Version 1.0.0
 
+[**Download ModernDriveSearchInstaller_x64.exe**](https://github.com/bantikumarsatlokashram/DriveSearch/releases/download/v1.0.0/ModernDriveSearchInstaller_x64.exe)  
+[**Download ModernDriveSearchSetup.exe**](https://github.com/bantikumarsatlokashram/DriveSearch/releases/download/v1.0.0/ModernDriveSearchSetup.exe)
+
 **Modern Drive Search** is a powerful, intuitive desktop tool for searching and managing files across all drives on your Windows system in real-time. Whether you're hunting for a file across multiple drives or managing your files with advanced context menu options, this app is designed to make your life easier.
 
 ---
@@ -37,16 +40,13 @@ Right-click on any search result to:
 ## **Screenshots**
 
 ### **Dark Mode with Live Search**
-![Dark Mode](https://github.com/your-repo/assets/dark-mode-screenshot.png)
-
-### **Advanced Context Menu**
-![Context Menu](https://github.com/your-repo/assets/context-menu-screenshot.png)
+![Dark Mode](https://github.com/bantikumarsatlokashram/DriveSearch/blob/main/preview.png)
 
 ---
 
 ## **Installation**
-1. Download the latest version from the [Releases](https://github.com/bantikumarstalokashram/DriveSearch/releases) page.
-2. Run **ModernDriveSearchInstaller_x64.exe**.
+1. Download the latest version from the [Releases](https://github.com/bantikumarsatlokashram/DriveSearch/releases) page.
+2. Run **ModernDriveSearchInstaller_x64.exe** or **ModernDriveSearchSetup.exe**.
 3. Follow the setup wizard to install the app.
 4. Launch the app from the **Start Menu** or **Desktop Shortcut**.
 
@@ -96,7 +96,7 @@ Right-click on any search result to:
 ---
 
 ## **Contributing**
-Contributions are welcome! Please fork the repository and submit a pull request with your proposed changes. For bug reports or feature requests, open an issue [here](https://github.com/bantikumarstalokashram/DriveSearch/issues).
+Contributions are welcome! Please fork the repository and submit a pull request with your proposed changes. For bug reports or feature requests, open an issue [here](https://github.com/bantikumarsatlokashram/DriveSearch/issues).
 
 ---
 
@@ -106,9 +106,9 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 ## **Feedback & Support**
-- Found a bug? [Submit an Issue](https://github.com/bantikumarstalokashram/DriveSearch/issues).
+- Found a bug? [Submit an Issue](https://github.com/bantikumarsatlokashram/DriveSearch/issues).
 - Have suggestions? Let us know by opening a discussion or contacting us directly.  
-- Stay updated by watching the repository on [GitHub](https://github.com/bantikumarstalokashram/DriveSearch).
+- Stay updated by watching the repository on [GitHub](https://github.com/bantikumarsatlokashram/DriveSearch).
 
 ---
 
